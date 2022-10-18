@@ -8,6 +8,6 @@ const Header: React.FC = ( ) => {
             Hello World
         </Container>
     );
-}
+};
 
-export default Header
+export default Header;
