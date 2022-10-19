@@ -1,6 +1,11 @@
-# Getting Started with Create React App
+# Dark/Light mode - Meissie Brand
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+utilização de uma lib chamada Polished para manipular cores, e também a criação de um Hook no React para persistir valores do estado no localStorage.
+
+![image](https://user-images.githubusercontent.com/104083691/196785651-b46d8572-3c6c-42b2-9a6c-c10a32dfe036.png)
+
+![image](https://user-images.githubusercontent.com/104083691/196785678-c83c4712-e642-4b30-9f9e-de94ef4b05e4.png)
+
 
 ## Available Scripts
 
