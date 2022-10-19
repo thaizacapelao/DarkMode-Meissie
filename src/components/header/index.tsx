@@ -2,6 +2,7 @@ import React, { useContext } from 'react';
 import Switch from 'react-switch';
 import { ThemeContext } from 'styled-components';
 import { shade } from 'polished';
+import { FaHeart } from "react-icons/fa";
 
 import { Container } from './styles';
 
@@ -14,7 +15,8 @@ const Header: React.FC<Props> = ({ toggleTheme }) => {
 
     return (
         <Container>
-           Meissie Brand
+           Meissie Brand 
+        <FaHeart />  
         <Switch
         onChange= {toggleTheme}
         checked={title === 'dark'}
