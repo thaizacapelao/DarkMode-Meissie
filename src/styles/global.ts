@@ -1,4 +1,5 @@
-import { createGlobalStyle } from 'styled-components';
+
+import { createGlobalStyle } from "styled-components";
 
 export default createGlobalStyle`
     * {
@@ -8,10 +9,10 @@ export default createGlobalStyle`
     }
 
     body {
-        background: ${props => props.theme.colors.background};
+        background: ${(props) => props.theme.colors.background};
         font-size: 30px;
-        color: ${props => props.theme.colors.text};
-        font-family: 'Montserrat';
+        color: ${(props) => props.theme.colors.text};
+        font-family: 'Fuzzy Bubbles';
         font-weight: 800;
         font-style: italic;
     }
