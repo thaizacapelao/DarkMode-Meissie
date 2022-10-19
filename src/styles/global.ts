@@ -13,5 +13,6 @@ export default createGlobalStyle`
         color: ${props => props.theme.colors.text};
         font-family: 'Montserrat';
         font-weight: 800;
+        font-style: italic;
     }
 `;

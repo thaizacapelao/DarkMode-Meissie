@@ -14,7 +14,7 @@ const Header: React.FC<Props> = ({ toggleTheme }) => {
 
     return (
         <Container>
-            Meissie Brand
+           Meissie Brand
         <Switch
         onChange= {toggleTheme}
         checked={title === 'dark'}
