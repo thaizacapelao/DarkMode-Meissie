@@ -1,12 +1,30 @@
 # Dark/Light mode - Meissie Brand
 
-utilização de uma lib chamada Polished para manipular cores, e também a criação de um Hook no React para persistir valores do estado no localStorage.
+## 💻 Projeto:
 
-![image](https://user-images.githubusercontent.com/104083691/196785651-b46d8572-3c6c-42b2-9a6c-c10a32dfe036.png)
+Projeto voltado para estudo de implementação de Dark-mode.
 
-![image](https://user-images.githubusercontent.com/104083691/196785678-c83c4712-e642-4b30-9f9e-de94ef4b05e4.png)
+![chrome_GvF3bvBdVZ](https://user-images.githubusercontent.com/104083691/215564706-1df5e809-1086-43d4-ad6d-642f647adaa7.gif)
 
+## :hammer_and_wrench: Features:
 
+-   [ ] Utilização de lib chamada Polished;
+-   [ ] Manipulação de cores atraves da lib;
+-   [ ] Utilização de variáveis CSS/SaSS;
+-   [ ] Trabalhando com o flex box;
+-   [ ] Criação de Hook no React para persistir valores;
+-   [ ] Valores do estados mantidos no local Storage;
+-   [ ] instalação da biblioteca React-Icons para utilizar os icones;
+
+## ✨ Linguagens utilizadas:
+
+-   [ ] Typescript.
+-   [ ] React.
+-   [ ] HTML.
+
+## 🔖 Layout:
+
+Você pode visualizar o layout do projeto através [desse link]().
 ## Available Scripts
 
 In the project directory, you can run:
