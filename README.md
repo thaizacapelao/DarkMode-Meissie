@@ -25,6 +25,7 @@ Projeto voltado para estudo de implementação de Dark-mode.
 ## 🔖 Layout:
 
 Você pode visualizar o layout do projeto através [desse link]().
+
 ## Available Scripts
 
 In the project directory, you can run:
